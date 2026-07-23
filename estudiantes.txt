@@ -1,4 +1,0 @@
-Raul,,,,,Diurno,No
-454387,Raul,Villalobos,ingenieria informatica ,laboratorio de programacion ,Diurno,Sí
-454387,Raul,Villalobos,ingenieria informatica ,laboratorio de programacion ,Vespertino,Sí
-454387,Raul,Villalobos,ingenieria informatica ,laboratorio de programacion ,Nocturno,No
